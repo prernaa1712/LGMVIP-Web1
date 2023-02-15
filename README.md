@@ -3,4 +3,4 @@ Install
 npm install
 npm start
 
-Click on visit Website : https://prernaaaa1712.github.io/LGMVIP-Web1/
+Click on visit Website : https://lgmvip-web1.vercel.app/
